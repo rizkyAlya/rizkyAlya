@@ -16,8 +16,8 @@ Let's connect and build something meaningful!
 ## 🚀 Featured Projects
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [DreamJobs](https://github.com/rizkyAlya/dreamjobs) | A job search platform with comprehensive backend features for users, companies, and job applications. | Node.js, JavaScript, React, PostgreSQL, HTML, CSS |
-| [QuakeRangers](https://github.com/rizkyAlya/quakerangers) | An interactive earthquake education platform for children. | Node.js, JavaScript, React, MongoDB, tailwind, CSS |
+| [DreamJobs](https://github.com/SistemBasisData2024/DreamJobs.git) | A job search platform with comprehensive backend features for users, companies, and job applications. | Node.js, JavaScript, React, PostgreSQL, HTML, CSS |
+| [QuakeRangers](https://github.com/rizkyAlya/QuakeRangers.git) | An interactive earthquake education platform for children. | Node.js, JavaScript, React, MongoDB, tailwind, CSS |
 
 📌 **View all my repositories [here](https://github.com/rizkyAlya?tab=repositories)**
 
